@@ -20,6 +20,9 @@
 
 using namespace std;
 
+/**
+ * A helper class to parse shader files, and acts as a facade(?) pattern
+ */
 class Shader {
     
 private:
